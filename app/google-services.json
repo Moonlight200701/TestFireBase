@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "351718069644",
+    "project_id": "fir-test-5db38",
+    "storage_bucket": "fir-test-5db38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351718069644:android:600682d9482ab2b51532a9",
+        "android_client_info": {
+          "package_name": "com.example.testfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKCnIMOPsBnWZDhXkyiIJt1gf2SMTecaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351718069644:android:3c19412563b5052b1532a9",
+        "android_client_info": {
+          "package_name": "com.smallacademy.userroles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKCnIMOPsBnWZDhXkyiIJt1gf2SMTecaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
